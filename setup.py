@@ -5,7 +5,7 @@ with open('README.md', 'r') as file:
 
 
 setuptools.setup(
-	name = 'ML_tune', #this must be unique
+	name = 'ML', #this must be unique
 #	include_package_data=True,
 	version = '0.1',
 	author = 'Huanwang (Henry) Yang',
